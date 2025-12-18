@@ -7,4 +7,4 @@ jobs:
           - name : my-step
             run : echo "Our Universe"
           - name : my-world
-            run : echo"Our Galaxy"
+            run : echo "Our Galaxy"
